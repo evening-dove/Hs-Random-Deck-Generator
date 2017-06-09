@@ -1,0 +1,153 @@
+Jungle Giants
+druid quest
++5
+135%
+
+The Marsh Queen
+hunter quest
++7
+135%
+
+Open the Waygate
+mage quest
++6
+135%
+
+Inkmaster Solia
+reno effect
+
+The Last Kaleidosaur
+paladin quest
++6
+135%
+
+Awaken the Makers
+deathrattle
++7
+135%
+
+Lyra the Sunshard
+spell
+150%
+
+Raza the Chained
+reno effect
+
+The Caverns Below
+rogue quest
++4
+135%
+
+Unite the Murlocs
+murloc
++10
+135%
+
+Kalimos, Primal Lord
+elemental
+150%
+
+Lakkari Sacrifice
+discard
++6
+135%
+
+Krul the Unshackled
+reno effect
+
+Fire Plume's Heart
+taunt
++7
+135%
+
+Patches the Pirate
+pirate
+150%
+
+Baron Rivendare
+deathrattle
+150%
+
+Spiritsinger Umbra
+deathrattle
+150%
+
+Kazakus
+reno effect
+
+Old Murk-Eye
+murloc
+150%
+
+Captain Greenskin
+weapon
+150%
+
+Feugen
+Stalagg
+
+Finja, the Flying Star
+murloc
+140%
+
+Mimiron's Head
+mechanical
++2
+160%
+
+Stalagg
+Feugen
+
+Aya Blackpaw
+jade golem
+150%
+
+Reno Jackson
+reno effect
+
+Wrathion
+dragon
+160%
+
+Rend Blackhand
+dragon
+140%
+
+Skycap'n Kragg
+pirate
+150%
+
+The Curator
+beast
++1
+120%
+dragon
++1
+120%
+murloc
++1
+120%
+
+Twin Emperor Vek'lor
+Twilight Elder
+Twilight Elder
+ritual
+150%
+
+Ozruk
+elemental
+150%
+
+C'Thun
+Beckoner of Evil
+Beckoner of Evil
+ritual
+160%
+
+N'Zoth, the Corruptor
+deathrattle
+140%
+
+Yogg-Saron, Hope's End
+spell
+140%

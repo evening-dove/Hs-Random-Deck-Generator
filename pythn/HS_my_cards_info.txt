@@ -1,0 +1,1198 @@
+Innervate$2
+Moonfire$2
+Claw$2
+Earthen Scales$1
+Enchanted Raven$2
+Forbidden Ancient$1
+Jade Idol$2
+Jungle Giants$0
+Living Roots$2
+Mark of the Lotus$2
+Naturalize$2
+Raven Idol$2
+Savagery$0
+Anodized Robo Cub$0
+Darnassus Aspirant$2
+Druid of the Saber$2
+Mark of Y'Shaarj$2
+Mark of the Wild$2
+Power of the Wild$2
+Tortollan Forager$1
+Wild Growth$2
+Wrath$2
+Addled Grizzly$2
+Celestial Dreamer$1
+Druid of the Flame$2
+Elder Longneck$2
+Feral Rage$2
+Grove Tender$0
+Healing Touch$2
+Jade Blossom$2
+Mark of Nature$2
+Mounted Raptor$2
+Mulch$1
+Pilfered Power$1
+Savage Roar$2
+Astral Communion$1
+Bite$1
+Evolving Spores$1
+Fandral Staghelm$0
+Jungle Moonkin$2
+Keeper of the Grove$0
+Klaxxi Amber-Weaver$1
+Mire Keeper$1
+Poison Seeds$2
+Savage Combatant$1
+Shellshifter$0
+Soul of the Forest$2
+Swipe$2
+Wildwalker$2
+Druid of the Claw$2
+Druid of the Fang$0
+Force of Nature$1
+Living Mana$0
+Lunar Visions$1
+Nourish$2
+Starfall$2
+Verdant Longneck$2
+Virmen Sensei$0
+Dark Arakkoa$1
+Dark Wispers$0
+Jade Behemoth$2
+Mech-Bear-Cat$0
+Menagerie Warden$0
+Moonglade Portal$0
+Recycle$0
+Starfire$2
+Ancient of Lore$0
+Ancient of War$0
+Giant Anaconda$0
+Knight of the Wild$2
+Malorne$1
+Wisps of the Old Gods$0
+Ironbark Protector$2
+Aviana$0
+Cenarius$1
+Tree of Life$1
+Volcanic Lumberer$0
+Kun the Forgotten King$0
+Tyrantus$0
+
+Alleycat$2
+Arcane Shot$2
+Bestial Wrath$0
+Brave Archer$2
+Fiery Bat$2
+Hunter's Mark$2
+Jeweled Macaw$2
+On the Hunt$2
+Raptor Hatchling$1
+Smuggler's Crate$2
+Stampede$0
+The Marsh Queen$0
+Timber Wolf$2
+Tracking$0
+Webspinner$1
+Bear Trap$2
+Call Pet$0
+Cat Trick$0
+Crackling Razormaw$2
+Dart Trap$2
+Dinomancy$1
+Explorer's Hat$2
+Explosive Trap$2
+Feign Death$0
+Flare$2
+Freezing Trap$2
+Glaivezooka$0
+Grievous Bite$2
+Hidden Cache$2
+Kindly Grandmother$2
+King's Elekk$2
+Lock and Load$0
+Misdirection$1
+Quick Shot$2
+Scavenging Hyena$2
+Snake Trap$2
+Snipe$2
+Steamwheedle Sniper$0
+Trogg Beastrager$1
+Animal Companion$2
+Carrion Grub$2
+Cloaked Huntress$2
+Deadly Shot$2
+Desert Camel$2
+Dreadscale$0
+Eaglehorn Bow$2
+Forlorn Stalker$2
+Infest$2
+Kill Command$2
+Metaltooth Leaper$0
+Powershot$2
+Rat Pack$0
+Shaky Zipgunner$2
+Stablemaster$0
+Terrorscale Stalker$1
+Unleash the Hounds$2
+Core Rager$0
+Dispatch Kodo$2
+Houndmaster$2
+Infested Wolf$2
+Multi-Shot$2
+Cobra Shot$0
+Explosive Shot$2
+King of Beasts$0
+Knuckles$0
+Piranha Launcher$0
+Princess Huhuran$0
+Ram Wrangler$1
+Starving Buzzard$2
+Tol'vir Warden$0
+Tundra Rhino$2
+Ball of Spiders$1
+Savannah Highmane$2
+Acidmaw$0
+Gahz'rilla$0
+Gladiator's Longbow$1
+Swamp King Dred$0
+Giant Sand Worm$0
+Call of the Wild$0
+King Krush$0
+
+Forbidden Flame$0
+Freezing Potion$2
+Arcane Blast$1
+Arcane Missiles$2
+Babbling Book$0
+Ice Lance$2
+Kabal Lackey$2
+Mana Wyrm$2
+Mirror Image$2
+Open the Waygate$0
+Arcane Explosion$2
+Arcanologist$2
+Cult Sorcerer$2
+Fallen Hero$2
+Flame Geyser$2
+Flamecannon$2
+Frostbolt$2
+Medivh's Valet$0
+Primordial Glyph$0
+Pyros$0
+Shatter$2
+Shimmering Tempest$2
+Snowchugger$0
+Sorcerer's Apprentice$2
+Unstable Portal$2
+Arcane Intellect$2
+Counterspell$2
+Duplicate$2
+Effigy$0
+Flamewaker$0
+Forgotten Torch$2
+Frost Nova$2
+Ice Barrier$2
+Ice Block$1
+Kirin Tor Mage$2
+Mana Bind$1
+Manic Soulcaster$1
+Mirror Entity$2
+Polymorph: Boar$0
+Potion of Polymorph$1
+Soot Spewer$0
+Spellbender$2
+Spellslinger$2
+Twilight Flamecaller$2
+Vaporize$1
+Volcanic Potion$2
+Animated Armor$2
+Cone of Cold$2
+Dalaran Aspirant$2
+Demented Frostcaller$2
+Echo of Medivh$1
+Ethereal Arcanist$0
+Fireball$2
+Goblin Blastmage$0
+Molten Reflection$0
+Polymorph$2
+Steam Surger$1
+Water Elemental$2
+Wee Spellstopper$0
+Cabalist's Tome$2
+Cryomancer$2
+Dragon's Breath$2
+Ethereal Conjurer$2
+Flame Lance$2
+Servant of Yogg-Saron$2
+Blizzard$2
+Coldarra Drake$0
+Faceless Summoner$2
+Kabal Crystal Runner$1
+Meteor$1
+Archmage Antonidas$0
+Firelands Portal$2
+Flame Leviathan$0
+Flamestrike$2
+Greater Arcane Missiles$1
+Inkmaster Solia$1
+Anomalus$0
+Rhonin$0
+Pyroblast$1
+
+Forbidden Healing$1
+Adaptation$2
+Avenge$2
+Blessing of Might$2
+Blessing of Wisdom$2
+Competitive Spirit$2
+Divine Strength$2
+Eye for an Eye$2
+Getaway Kodo$0
+Grimscale Chum$2
+Hand of Protection$2
+Humility$2
+Light's Justice$2
+Lost in the Jungle$1
+Meanstreet Marshal$0
+Noble Sacrifice$2
+Redemption$2
+Repentance$2
+Sacred Trial$2
+Selfless Hero$1
+Smuggler's Run$2
+The Last Kaleidosaur$0
+Vilefin Inquisitor$2
+A Light in the Darkness$2
+Argent Lance$2
+Argent Protector$2
+Equality$1
+Grimestreet Outfitter$2
+Holy Light$2
+Hydrologist$2
+Primalfin Champion$0
+Seal of Light$0
+Shielded Minibot$0
+Aldor Peacekeeper$1
+Coghammer$0
+Divine Favor$1
+Muster for Battle$1
+Nightbane Templar$0
+Rallying Blade$1
+Scarlet Purifier$0
+Seal of Champions$2
+Small-Time Recruits$0
+Steward of Darkshire$2
+Sword of Justice$0
+Warhorse Trainer$2
+Wickerflame Burnbristle$0
+Blessing of Kings$2
+Consecration$2
+Hammer of Wrath$2
+Keeper of Uldaman$2
+Lightfused Stegodon$1
+Murloc Knight$2
+Silvermoon Portal$2
+Truesilver Champion$2
+Blessed Champion$1
+Bolvar Fordragon$0
+Cobalt Guardian$0
+Dragon Consort$0
+Grimestreet Enforcer$2
+Holy Wrath$2
+Quartermaster$0
+Solemn Vigil$0
+Stand Against Darkness$2
+Tuskarr Jouster$0
+Avenging Wrath$2
+Enter the Coliseum$0
+Ivory Knight$2
+Mysterious Challenger$0
+Spikeridged Steed$2
+Sunkeeper Tarim$1
+Eadric the Pure$0
+Grimestreet Protector$2
+Guardian of Kings$2
+Vinecleaver$2
+Dinosize$0
+Lay on Hands$0
+Ragnaros, Lightlord$0
+Tirion Fordring$0
+Anyfin Can Happen$2
+
+Circle of Healing$2
+Forbidden Shaping$0
+Silence$2
+Awaken the Makers$1
+Binding Heal$2
+Crystalline Oracle$1
+Flash Heal$2
+Holy Smite$2
+Inner Fire$2
+Light of the Naaru$1
+Mind Vision$2
+Northshire Cleric$2
+Pint-Size Potion$1
+Potion of Madness$2
+Power Word: Glory$2
+Power Word: Shield$2
+Shadowbomber$0
+Twilight Whelp$0
+Confuse$0
+Convert$0
+Divine Spirit$2
+Embrace the Shadow$1
+Lightwell$1
+Mana Geode$0
+Mind Blast$2
+Museum Curator$2
+Purify$0
+Radiant Elemental$1
+Resurrect$2
+Shadow Visions$0
+Shadow Word: Pain$2
+Shadowboxer$0
+Shrinkmeister$0
+Wyrmrest Agent$2
+Curious Glimmerroot$0
+Dark Cultist$2
+Kabal Talonpriest$2
+Mirage Caller$1
+Shadow Word: Death$2
+Shadowfiend$0
+Shadowform$0
+Thoughtsteal$2
+Velen's Chosen$2
+Auchenai Soulpriest$2
+Greater Healing Potion$2
+Holy Champion$2
+Hooded Acolyte$2
+Lightspawn$2
+Mass Dispel$2
+Mindgames$0
+Priest of the Feast$2
+Shadow Madness$1
+Shadow Word: Horror$1
+Shifting Shade$1
+Spawn of Shadows$2
+Tortollan Shellraiser$1
+Darkshire Alchemist$2
+Drakonid Operative$2
+Excavated Evil$2
+Holy Nova$2
+Kabal Songstealer$2
+Lyra the Sunshard$0
+Onyx Bishop$2
+Power Word: Tentacles$2
+Raza the Chained$1
+Twilight Darkmender$2
+Upgraded Repair Bot$0
+Vol'jin$0
+Cabal Shadow Priest$0
+Dragonfire Potion$1
+Entomb$2
+Herald Volazj$0
+Holy Fire$1
+Lightbomb$2
+Temple Enforcer$2
+Confessor Paletress$0
+Prophet Velen$0
+Free From Amber$2
+Mind Control$2
+
+Backstab$2
+Counterfeit Coin$2
+Preparation$1
+Shadowstep$2
+Bladed Cultist$2
+Buccaneer$2
+Cold Blood$2
+Conceal$2
+Deadly Poison$2
+Hallucination$2
+Journey Below$1
+Pit Snake$2
+Sinister Strike$2
+Swashburglar$2
+The Caverns Below$1
+Betrayal$2
+Biteweed$2
+Cutpurse$1
+Defias Ringleader$2
+Eviscerate$2
+Gadgetzan Ferryman$2
+Gang Up$2
+Goblin Auto-Barber$0
+Jade Shuriken$2
+Jade Swarmer$2
+One-eyed Cheat$0
+Patient Assassin$0
+Razorpetal Lasher$2
+Razorpetal Volley$2
+Sap$2
+Shiv$2
+Undercity Huckster$2
+Undercity Valiant$2
+Beneath the Grounds$2
+Burgle$2
+Cogmaster's Wrench$0
+Deadly Fork$2
+Edwin VanCleef$1
+Envenom Weapon$2
+Fan of Knives$2
+Headcrack$2
+Iron Sensei$0
+Mimic Pod$0
+Perdition's Blade$2
+SI:7 Agent$0
+Shadow Rager$2
+Shadow Strike$2
+Shady Dealer$1
+Shaku, the Collector$0
+Unearthed Raptor$2
+Anub'ar Ambusher$0
+Blade Flurry$0
+Master of Disguise$0
+Obsidian Shard$0
+Poisoned Blade$0
+Sabotage$0
+Shadow Sensei$2
+Sherazin, Corpse Flower$0
+Southsea Squidface$2
+Tinker's Sharpsword Oil$0
+Tomb Pillager$2
+Xaril, Poisoned Mind$1
+Assassin's Blade$2
+Assassinate$2
+Dark Iron Skulker$0
+Ethereal Peddler$0
+Lotus Assassin$0
+Ogre Ninja$1
+Shado-Pan Rider$2
+Shadowcaster$0
+Vilespine Slayer$0
+Kidnapper$0
+Luckydo Buccaneer$0
+Thistle Tea$2
+Trade Prince Gallywix$0
+Vanish$2
+Sprint$2
+Anub'arak$1
+Blade of C'Thun$1
+
+Ancestral Healing$2
+Totemic Might$2
+Air Elemental$2
+Dust Devil$2
+Earth Shock$2
+Evolve$2
+Finders Keepers$0
+Forked Lightning$2
+Frost Shock$2
+Lightning Bolt$2
+Primal Fusion$2
+Tunnel Trogg$2
+Unite the Murlocs$0
+Ancestral Knowledge$2
+Ancestral Spirit$1
+Crackle$0
+Devolve$2
+Eternal Sentinel$0
+Fire Plume Harbinger$0
+Flametongue Totem$2
+Jade Claws$2
+Lava Shock$2
+Maelstrom Portal$2
+Primalfin Totem$0
+Reincarnate$2
+Rockbiter Weapon$2
+Spirit Claws$0
+Stormcrack$2
+Stormforged Axe$2
+Totem Golem$2
+Vitality Totem$2
+Whirling Zap-o-matic$0
+Windfury$2
+Elemental Destruction$0
+Far Sight$0
+Feral Spirit$2
+Healing Wave$2
+Hex$2
+Hot Spring Guardian$2
+Lava Burst$0
+Lightning Storm$2
+Mana Tide Totem$2
+Powermace$0
+Spirit Echo$1
+Tuskarr Totemic$1
+Unbound Elemental$2
+Ancestor's Call$0
+Call in the Finishers$2
+Charged Hammer$0
+Draenei Totemcarver$1
+Dunemaul Shaman$0
+Fireguard Destroyer$0
+Flamewreathed Faceless$2
+Jade Lightning$2
+Jinyu Waterspeaker$0
+Lotus Illusionist$0
+Master of Evolution$1
+Rumbling Elemental$2
+Siltfin Spiritwalker$0
+Tidal Surge$1
+Wicked Witchdoctor$2
+Windspeaker$2
+Bloodlust$2
+Doomhammer$2
+Earth Elemental$0
+Hallazeal the Ascended$0
+Hammer of Twilight$0
+Thunder Bluff Valiant$2
+Volcano$1
+White Eyes$0
+Fire Elemental$2
+The Mistcaller$0
+Thing from Below$1
+Everyfin is Awesome$2
+Jade Chieftain$2
+Neptulon$0
+Stone Sentinel$0
+Al'Akir the Windlord$0
+Kalimos, Primal Lord$0
+
+Forbidden Ritual$0
+Sacrificial Pact$2
+Blood Imp$2
+Corruption$2
+Flame Imp$2
+Lakkari Sacrifice$0
+Malchezaar's Imp$0
+Mortal Coil$2
+Possessed Villager$2
+Power Overwhelming$2
+Reliquary Seeker$2
+Soulfire$2
+Voidwalker$2
+Bloodbloom$0
+Clutchmother Zavas$0
+Corrupting Mist$1
+Curse of Rafaam$2
+Dark Peddler$2
+Darkbomb$2
+Darkshire Librarian$2
+Demonfire$2
+Demonfuse$2
+Mistress of Pain$0
+Renounce Darkness$1
+Succubus$2
+Tiny Knight of Evil$1
+Wrathguard$2
+Bloodfury Potion$2
+Chittering Tunneler$0
+Darkshire Councilman$2
+Demonwrath$0
+Drain Life$2
+Felguard$2
+Imp Gang Boss$2
+Sense Demons$2
+Shadow Bolt$2
+Silverware Golem$2
+Spreading Madness$1
+Unlicensed Apothecary$0
+Void Terror$2
+Blastcrystal Potion$2
+Crystalweaver$2
+Dreadsteed$2
+Fel Cannon$0
+Fist of Jaraxxus$1
+Hellfire$2
+Imp-losion$0
+Lakkari Felhound$2
+Pit Lord$0
+Ravenous Pterrordax$2
+Seadevil Stinger$2
+Shadowflame$2
+Summoning Portal$2
+Voidcaller$2
+Bane of Doom$0
+Demonheart$0
+Doomguard$2
+Feeding Time$2
+Floating Watcher$2
+Kara Kazham!$2
+Tar Lurker$2
+Usher of Souls$2
+Anima Golem$0
+Cruel Dinomancer$2
+Dark Bargain$0
+Dread Infernal$2
+Felfire Potion$2
+Kabal Trafficker$0
+Siphon Soul$0
+Void Crusher$1
+Wilfred Fizzlebang$1
+Abyssal Enforcer$2
+Cho'gall$0
+Fearsome Doomguard$2
+Twisting Nether$0
+Krul the Unshackled$0
+Lord Jaraxxus$0
+Mal'Ganis$0
+DOOM!$0
+
+Inner Rage$2
+Blood To Ichor$2
+Charge$2
+Cursed Blade$2
+Fire Plume's Heart$1
+I Know a Guy$2
+Iron Hide$2
+Molten Blade$1
+N'Zoth's First Mate$2
+Shield Slam$1
+Upgrade!$2
+Warbot$0
+Whirlwind$2
+Alexstrasza's Champion$0
+Armorsmith$2
+Battle Rage$2
+Bolster$2
+Cleave$2
+Commanding Shout$1
+Cornered Sentry$2
+Cruel Taskmaster$2
+Execute$2
+Explore Un'Goro$0
+Fiery War Axe$2
+Heroic Strike$2
+Hobart Grapplehammer$0
+Public Defender$2
+Rampage$2
+Revenge$0
+Slam$2
+Sleep with the Fishes$1
+Sparring Partner$2
+Stolen Goods$1
+Bash$2
+Blood Warriors$0
+Bloodsail Cultist$2
+Bouncing Blade$1
+Fierce Monkey$2
+Frothing Berserker$2
+Grimestreet Pawnbroker$1
+King's Defender$1
+Ogre Warmaul$0
+Orgrimmar Aspirant$2
+Protect the King!$2
+Ravaging Ghoul$2
+Shield Block$2
+Warsong Commander$2
+Arathi Weaponsmith$2
+Axe Flinger$2
+Bloodhoof Brave$2
+Brass Knuckles$1
+Death's Bite$2
+Grimy Gadgeteer$2
+Kor'kron Elite$2
+Magnataur Alpha$1
+Mortal Strike$2
+Screwjank Clunker$0
+Alley Armorsmith$2
+Arcanite Reaper$2
+Brawl$1
+Direhorn Hatchling$2
+Fool's Bane$0
+Ironforge Portal$0
+Siege Engine$0
+Sudden Genesis$0
+Tentacles for Arms$1
+Iron Juggernaut$0
+Ornery Direhorn$2
+Sea Reaver$1
+Shieldmaiden$2
+Ancient Shieldbearer$1
+Crush$0
+Gorehowl$1
+Malkorok$1
+Obsidian Destroyer$2
+Tar Lord$2
+Grommash Hellscream$0
+King Mosh$0
+Varian Wrynn$0
+
+Murloc Tinyfin$2
+Target Dummy$0
+Wisp$2
+Abusive Sergeant$0
+Angry Chicken$2
+Arcane Anomaly$2
+Argent Squire$2
+Bloodsail Corsair$0
+Clockwork Gnome$0
+Cogmaster$0
+Dragon Egg$0
+Elven Archer$2
+Emerald Hive Queen$2
+Emerald Reaver$2
+Fire Fly$2
+Gadgetzan Jouster$2
+Glacial Shard$2
+Goldshire Footman$2
+Grimscale Oracle$2
+Hungry Crab$2
+Injured Kvaldir$2
+Leper Gnome$2
+Lightwarden$2
+Lowly Squire$2
+Mistress of Mixtures$2
+Murloc Raider$2
+Murloc Tidecaller$2
+Patches the Pirate$0
+Runic Egg$0
+Secretkeeper$2
+Shieldbearer$2
+Shifter Zerus$0
+Sir Finley Mrrgglton$1
+Small-Time Buccaneer$0
+Southsea Deckhand$2
+Stonetusk Boar$2
+Tentacle of N'Zoth$2
+Tournament Attendee$2
+Undertaker$2
+Voodoo Doctor$2
+Weasel Tunneler$0
+Worgen Infiltrator$2
+Young Dragonhawk$2
+Young Priestess$2
+Zealous Initiate$2
+Zombie Chow$2
+Acidic Swamp Ooze$2
+Amani Berserker$2
+Ancient Watcher$2
+Annoy-o-Tron$2
+Argent Watchman$1
+Beckoner of Evil$2
+Bilefin Tidehunter$2
+Bloodfen Raptor$2
+Bloodmage Thalnos$0
+Bloodsail Raider$2
+Blowgill Sniper$2
+Bluegill Warrior$2
+Boneguard Lieutenant$2
+Captain's Parrot$0
+Crazed Alchemist$1
+Dire Wolf Alpha$2
+Dirty Rat$1
+Doomsayer$0
+Duskboar$2
+Echoing Ooze$0
+Explosive Sheep$0
+Faerie Dragon$2
+Flame Juggler$2
+Friendly Bartender$2
+Frostwolf Grunt$2
+Gadgetzan Socialite$1
+Garrison Commander$0
+Gilblin Stalker$0
+Golakka Crawler$2
+Grimestreet Informant$1
+Haunted Creeper$2
+Huge Toad$2
+Jeweled Scarab$2
+Knife Juggler$1
+Kobold Geomancer$2
+Lance Carrier$2
+Loot Hoarder$2
+Lorewalker Cho$1
+Mad Bomber$2
+Mad Scientist$2
+Mana Addict$2
+Mana Wraith$1
+Master Swordsmith$0
+Mechwarper$0
+Micro Machine$2
+Millhouse Manastorm$0
+Murloc Tidehunter$2
+Nat Pagle$0
+Nat, the Darkfisher$0
+Nerub'ar Weblord$2
+Nerubian Egg$2
+Netherspite Historian$0
+Novice Engineer$2
+Pint-Sized Summoner$0
+Pompous Thespian$2
+Puddlestomper$0
+Ravasaur Runt$2
+Recombobulator$0
+River Crocolisk$2
+Rockpool Hunter$2
+Ship's Cannon$0
+Stonesplinter Trogg$2
+Stubborn Gastropod$2
+Sunfury Protector$2
+Twilight Geomancer$2
+Twisted Worgen$2
+Unstable Ghoul$2
+Volatile Elemental$2
+Wild Pyromancer$2
+Youthful Brewmaster$2
+Acolyte of Pain$2
+Alarm-o-Bot$2
+Am'gam Rager$2
+Arcane Golem$2
+Argent Horserider$2
+Auctionmaster Beardo$0
+Backstreet Leper$2
+Blackwing Technician$2
+Blood Knight$0
+Blubber Baron$1
+Brann Bronzebeard$1
+Coldlight Oracle$2
+Coldlight Seer$2
+Coliseum Manager$2
+Dalaran Mage$2
+Dancing Swords$2
+Deathlord$2
+Demolisher$1
+Devilsaur Egg$1
+Disciple of C'Thun$2
+Dragonhawk Rider$2
+Earthen Ring Farseer$2
+Eggnapper$2
+Emperor Cobra$2
+Eydis Darkbane$0
+Fel Orc Soulfiend$0
+Fencing Coach$2
+Fjola Lightbane$0
+Flesheating Ghoul$2
+Flying Machine$0
+Giant Wasp$2
+Gluttonous Ooze$0
+Gnomeregan Infantry$0
+Gnomish Experimenter$0
+Goblin Sapper$2
+Grimestreet Smuggler$2
+Harvest Golem$2
+Hired Gun$2
+Hobgoblin$0
+Humongous Razorleaf$1
+Ice Rager$2
+Igneous Elemental$0
+Illuminator$0
+Imp Master$2
+Injured Blademaster$2
+Ironbeak Owl$2
+Ironforge Rifleman$2
+Ironfur Grizzly$2
+Jungle Panther$2
+Kabal Courier$1
+King Mukla$0
+Light's Champion$2
+Lil' Exorcist$0
+Magma Rager$2
+Master of Ceremonies$1
+Mind Control Tech$2
+Moroes$1
+Murloc Warleader$2
+Ogre Brute$0
+Pantry Spider$2
+Primalfin Lookout$2
+Pterrordax Hatchling$0
+Questing Adventurer$2
+Raging Worgen$1
+Raid Leader$2
+Razorfen Hunter$2
+Saboteur$2
+Scarlet Crusader$2
+Sergeant Sally$0
+Shade of Naxxramas$2
+Shattered Sun Cleric$2
+Silent Knight$2
+Silithid Swarmer$2
+Silver Hand Regent$2
+Silverback Patriarch$2
+Southsea Captain$0
+Spawn of N'Zoth$2
+Spider Tank$2
+Squirming Tentacle$2
+Stonehill Defender$2
+Stoneskin Gargoyle$0
+Street Trickster$2
+Tar Creeper$2
+Tauren Warrior$2
+Thrallmar Farseer$2
+Thunder Lizard$2
+Tinkertown Technician$0
+Tinkmaster Overspark$0
+Toxic Sewer Ooze$2
+Twilight Elder$2
+Vicious Fledgling$1
+Violet Illusionist$0
+Wolfrider$2
+Zoobot$0
+Aberrant Berserker$2
+Ancient Brewmaster$2
+Ancient Mage$0
+Ancient Shade$2
+Arcane Nullifier X-21$0
+Arcanosmith$2
+Armored Warhorse$2
+Backroom Bouncer$1
+Barnes$1
+Baron Rivendare$1
+Blackwater Pirate$2
+Bright-Eyed Scout$0
+Burly Rockjaw Trogg$2
+C'Thun's Chosen$2
+Chillwind Yeti$2
+Crowd Favorite$1
+Cult Master$2
+Cyclopian Horror$0
+Daring Reporter$2
+Dark Iron Dwarf$2
+Defender of Argus$2
+Dragonkin Sorcerer$0
+Dragonling Mechanic$2
+Dread Corsair$2
+Eater of Secrets$2
+Eerie Statue$2
+Elise Starseeker$1
+Enhance-o Mechano$0
+Evil Heckler$2
+Evolved Kobold$2
+Faceless Shambler$1
+Fire Plume Phoenix$2
+Frigid Snobold$2
+Gentle Megasaur$0
+Genzo, the Shark$0
+Gnomish Inventor$2
+Gorillabot A-3$2
+Gormok the Impaler$0
+Hozen Healer$2
+Hungry Dragon$0
+Infested Tauren$2
+Jade Spirit$2
+Jeeves$0
+Kabal Chemist$2
+Kazakus$0
+Kezan Mystic$0
+Kooky Chemist$2
+Lost Tallstrider$0
+Maiden of the Lake$2
+Mechanical Yeti$0
+Midnight Drake$1
+Mini-Mage$1
+Mogu'shan Warden$2
+Naga Corsair$1
+Oasis Snapjaw$2
+Ogre Magi$2
+Old Murk-Eye$1
+Piloted Shredder$2
+Polluted Hoarder$2
+Refreshment Vendor$2
+Sen'jin Shieldmasta$2
+Silvermoon Guardian$2
+Spellbreaker$2
+Spiritsinger Umbra$0
+Stegodon$2
+Stormwind Knight$2
+Tanaris Hogchopper$2
+The Voraxx$0
+Tol'vir Stoneshaper$2
+Tomb Spider$2
+Tournament Medic$2
+Twilight Drake$2
+Twilight Guardian$1
+Twilight Summoner$0
+Violet Teacher$0
+Wailing Soul$0
+Worgen Greaser$1
+Abomination$1
+Antique Healbot$2
+Anubisath Sentinel$2
+Avian Watcher$0
+Azure Drake$2
+Big Game Hunter$1
+Bittertide Hydra$0
+Blackwing Corruptor$0
+Blingtron 3000$0
+Bomb Lobber$2
+Bomb Squad$0
+Booty Bay Bodyguard$2
+Burgly Bully$0
+Captain Greenskin$0
+Clockwork Knight$2
+Corrupted Healbot$2
+Crazed Worshipper$0
+Cult Apothecary$2
+Darkscale Healer$2
+Darkspeaker$1
+Djinni of Zephyrs$2
+Doppelgangster$0
+Elise the Trailblazer$0
+Elite Tauren Chieftain$0
+Faceless Manipulator$2
+Fel Reaver$0
+Fen Creeper$2
+Feugen$1
+Finja, the Flying Star$1
+Frostwolf Warlord$2
+Grim Patron$2
+Grook Fu Master$1
+Gurubashi Berserker$2
+Harrison Jones$0
+Hemet Nesingwary$0
+Junkbot$0
+Kvaldir Raider$2
+Leeroy Jenkins$0
+Loatheb$1
+Lotus Agents$0
+Madder Bomber$0
+Menagerie Magician$0
+Mimiron's Head$0
+Mukla's Champion$2
+Naga Sea Witch$1
+Nesting Roc$2
+Nexus-Champion Saraad$0
+Nightblade$2
+Pit Fighter$2
+Prince Malchezaar$0
+Psych-o-Tron$2
+Recruiter$0
+Red Mana Wyrm$2
+Salty Dog$0
+Second-Rate Bruiser$1
+Servant of Kalimos$1
+Silver Hand Knight$2
+Sludge Belcher$2
+Spectral Knight$2
+Spiked Hogrider$2
+Spiteful Smith$2
+Stalagg$1
+Stampeding Kodo$2
+Stormpike Commando$2
+Stranglethorn Tiger$2
+Streetwise Investigator$2
+Summoning Stone$2
+Validated Doomsayer$0
+Venture Co. Mercenary$2
+Ancient Harbinger$0
+Ancient of Blossoms$2
+Archmage$2
+Argent Commander$0
+Aya Blackpaw$0
+Big-Time Racketeer$1
+Bolf Ramshield$0
+Book Wyrm$0
+Boulderfist Ogre$2
+Cairne Bloodhoof$0
+Corrupted Seer$2
+Defias Cleaner$1
+Drakonid Crusher$0
+Emperor Thaurissan$1
+Fight Promoter$1
+Frost Elemental$2
+Frozen Crusher$2
+Gadgetzan Auctioneer$2
+Gazlowe$0
+Gelbin Mekkatorque$0
+Grand Crusader$0
+Hemet, Jungle Hunter$0
+Hogger$0
+Illidan Stormrage$0
+Justicar Trueheart$1
+Kodorider$0
+Leatherclad Hogleader$0
+Lord of the Arena$2
+Madam Goya$0
+Maexxna$1
+Master Jouster$2
+Moat Lurker$2
+Mogor the Ogre$0
+Mogor's Champion$1
+Mukla, Tyrant of the Vale$0
+Nerubian Prophet$2
+Piloted Sky Golem$0
+Priestess of Elune$2
+Reckless Rocketeer$2
+Reno Jackson$1
+Sabretooth Stalker$2
+Scaled Nightmare$0
+Sideshow Spelleater$0
+Skeram Cultist$2
+Sunwalker$2
+Sylvanas Windrunner$1
+The Beast$1
+The Black Knight$1
+The Skeleton Knight$0
+Toshley$0
+Volcanic Drake$0
+Wind-up Burglebot$1
+Windfury Harpy$2
+Wobbling Runts$2
+Wrathion$0
+Baron Geddon$0
+Blazecaller$0
+Bog Creeper$2
+Captured Jormungar$2
+Chillmaw$1
+Core Hound$2
+Don Han'Cho$0
+Dr. Boom$1
+Grotesque Dragonhawk$2
+Hogger, Doom of Elwynn$0
+Ravenholdt Assassin$2
+Rend Blackhand$0
+Sated Threshadon$2
+Skycap'n Kragg$0
+Stormwatcher$2
+Stormwind Champion$2
+The Curator$0
+Troggzor the Earthinator$0
+Twin Emperor Vek'lor$1
+Volcanosaur$1
+War Golem$2
+Charged Devilsaur$0
+Chromaggus$0
+Doomcaller$2
+Eldritch Horror$2
+Foe Reaper 4000$1
+Force-Tank MAX$2
+Fossilized Devilsaur$2
+Gruul$0
+Kel'Thuzad$1
+Medivh, the Guardian$0
+Primordial Drake$1
+Ragnaros the Firelord$1
+Sneed's Old Shredder$0
+The Boogeymonster$0
+Tortollan Primalist$0
+Alexstrasza$0
+Arch-Thief Rafaam$1
+Blood of The Ancient One$0
+Giant Mastodon$2
+Icehowl$1
+Majordomo Executus$1
+Malygos$1
+Mayor Noggenfogger$0
+Mekgineer Thermaplugg$0
+Nefarian$0
+North Sea Kraken$2
+Nozdormu$0
+Onyxia$1
+Ozruk$0
+Soggoth the Slitherer$0
+Ysera$0
+C'Thun$1
+Deathwing$0
+Deathwing, Dragonlord$0
+Faceless Behemoth$2
+Frost Giant$1
+N'Zoth, the Corruptor$1
+Sea Giant$1
+Ultrasaur$2
+Y'Shaarj, Rage Unbound$0
+Yogg-Saron, Hope's End$0
+Arcane Giant$2
+Clockwork Giant$0
+Mountain Giant$0
+Molten Giant$0
