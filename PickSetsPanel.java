@@ -13,7 +13,10 @@ public class PickSetsPanel extends JPanel
   
   JPanel set_boxes_panel=new JPanel(new GridLayout(0, 3, 1, 5));
   
+  JPanel extraSetOptions = new JPanel(new FlowLayout());
+  
   JCheckBox use_standard_box=new JCheckBox("Use Standard Sets");
+  JCheckBox use_all_box=new JCheckBox("Select all Sets");
   
   public PickSetsPanel()
   {
@@ -22,7 +25,10 @@ public class PickSetsPanel extends JPanel
 		//Set up UI
     add(new JLabel("Please Select what Sets to use.", SwingConstants.CENTER), BorderLayout.NORTH);
     add(set_boxes_panel, BorderLayout.CENTER);
-    add(use_standard_box, BorderLayout.SOUTH);
+    add (extraSetOptions, BorderLayout.SOUTH);
+    
+    extraSetOptions.add(use_standard_box);
+    extraSetOptions.add(use_all_box);
     
 		//Standard sets
     new ExpCheckBox("Classic", true);
@@ -51,6 +57,8 @@ public class PickSetsPanel extends JPanel
           }
           
         }else{
+          use_all_box.setSelected(false);
+          
 					//Find all standard sets and make them checked
           for (int i=0; i<all_sets.size(); i++){
             ExpCheckBox temp_set=((ExpCheckBox)all_sets.get(i));
@@ -61,6 +69,29 @@ public class PickSetsPanel extends JPanel
             }else{
               temp_set.setSelected(false);
             }
+          }
+        }
+      }
+    });
+    
+    //Checkbox for picking all sets
+    use_all_box.addItemListener(new ItemListener(){
+      public void itemStateChanged(ItemEvent event){
+        
+        if (event.getStateChange()==ItemEvent.DESELECTED){
+          
+          for (int i=0; i<all_sets.size(); i++){
+            ((ExpCheckBox)all_sets.get(i)).setEnabled(true);
+          }
+          
+        }else{
+          use_standard_box.setSelected(false);
+          
+					//Find all sets and make them checked
+          for (int i=0; i<all_sets.size(); i++){
+            ExpCheckBox temp_set=((ExpCheckBox)all_sets.get(i));
+            temp_set.setEnabled(false);
+            temp_set.setSelected(true);
           }
         }
       }
