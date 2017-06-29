@@ -32,6 +32,7 @@ public class EditCurvePanel extends JPanel
   JRadioButton enforce_curve_yes=new JRadioButton("Yes");
   JRadioButton enforce_curve_no=new JRadioButton("No");
   JButton enforce_curve_help=new JButton("?");
+  JPopupMenu enforce_popup=new JPopupMenu("Menu");
   
   
   public EditCurvePanel(boolean enabled)
@@ -62,6 +63,14 @@ public class EditCurvePanel extends JPanel
     enforce_curve_panel.add(enforce_curve_yes);
     enforce_curve_panel.add(enforce_curve_no);
     enforce_curve_panel.add(enforce_curve_help);
+    
+    enforce_popup.add("<html>Clicking Yes guarantees that your decks will have exactly the <br>curve as it is shown above.<br>By selecting No, your decks will use the curve as more of a general <br>guideline as for how the decks should look.</html>");
+    enforce_curve_help.addActionListener(new ActionListener(){
+      public void actionPerformed(ActionEvent e) {
+        enforce_popup.show(enforce_curve_help, enforce_curve_help.getWidth(), 0);
+      }
+    }
+    );
     
     add(enforce_curve_panel, BorderLayout.SOUTH);
     

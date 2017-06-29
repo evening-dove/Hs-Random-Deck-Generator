@@ -62,12 +62,14 @@ public class AdvancedOptionsPanel extends JPanel
   JRadioButton legendary_rules_yes=new JRadioButton("Yes");
   JRadioButton legendary_rules_no=new JRadioButton("No");
   JButton legendary_rules_help=new JButton("?");
+  JPopupMenu legendary_help_popup=new JPopupMenu("Menu");
   
   //Option to enable simultanious deckbuilding
   JPanel simultanious_panel=new JPanel(new FlowLayout());
   JRadioButton simultanious_yes=new JRadioButton("Yes");
   JRadioButton simultanious_no=new JRadioButton("No");
   JButton simultanious_help=new JButton("?");
+  JPopupMenu simultanious_popup=new JPopupMenu("Menu");
   
   
   JButton back_button=new JButton("Back");
@@ -130,6 +132,13 @@ public class AdvancedOptionsPanel extends JPanel
     legendary_rules_panel.add(legendary_rules_no);
     legendary_rules_panel.add(legendary_rules_help);
     
+    legendary_help_popup.add("<html>By enabling this feature, if a legendary card that <br>relies heavily on synergies is added to your <br>deck, your deck may be modified slightly to better <br>accommodate said legendary card.</html>");
+    legendary_rules_help.addActionListener(new ActionListener(){
+      public void actionPerformed(ActionEvent e) {
+        legendary_help_popup.show(legendary_rules_help, legendary_rules_help.getWidth(), 0);
+      }
+    }
+    );
     
     //Sets up simultanious options
     simultanious_no.setSelected(true);
@@ -141,6 +150,14 @@ public class AdvancedOptionsPanel extends JPanel
     simultanious_panel.add(simultanious_yes);
     simultanious_panel.add(simultanious_no);
     simultanious_panel.add(simultanious_help);
+    
+    simultanious_popup.add("<html>If this rule is enabled, then any given card you own <br>will only be added once for each copy of it you have <br>in your collection.</html>");
+    simultanious_help.addActionListener(new ActionListener(){
+      public void actionPerformed(ActionEvent e) {
+        simultanious_popup.show(simultanious_help, simultanious_help.getWidth(), 0);
+      }
+    }
+    );
     
     
     //Puts the UI together 
