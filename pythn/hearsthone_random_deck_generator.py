@@ -1510,6 +1510,18 @@ class CardPool(object):
         self.pool.remove(to_remove)
         to_remove.in_pools.remove(self)
 
+    def addCardToPool(self, to_add):
+        if to_remove in self.pool:
+            return
+        self.pool+=[to_add]
+        to_add.in_pools+=[self]
+               
+        if to_add.card_attributes in self.attribute_counts:
+            self.attribute_counts[to_add.card_attributes]+=1
+        else:
+            self.attribute_counts[to_add.card_attributes]=1
+            
+
     @staticmethod
     def reintroduceCard(card):
         for i in CardPool.allPools:
